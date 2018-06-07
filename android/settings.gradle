@@ -1,0 +1,3 @@
+rootProject.name = 'NutriTerp'
+
+include ':app'
